@@ -8,3 +8,5 @@ The player controller shows a simple but powerful setup, including lean, landing
 It contains an expandable interaction system and several gameplay modules ready to be used in a level. Even with no programming background, you can build some puzzles and levels with it.
 
 Paired with our introductory presentation that gives you an overview of each facet of the project, this demo has everything a new developer needs to get started, while also providing a handy toolbox for more experienced indies to sink their teeth into.
+
+![a4eb084e-f457-4ae5-b999-02a1ee75f9fe](https://github.com/user-attachments/assets/85b198c5-8117-4f96-b21e-f9be216cdcb7)
